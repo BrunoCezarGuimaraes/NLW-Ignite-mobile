@@ -10,5 +10,5 @@ Versão mobile da aplicação do evento NLW Ignit, onde o objetivo da aplicaçã
  - Phosphor
 
 # Servidor e Web
-- Server: https://github.com/BrunoCezarGuimaraes/NLW-Ignit-server
-- Web: https://github.com/BrunoCezarGuimaraes/NLW-Ignit-web
+- Server: https://github.com/BrunoCezarGuimaraes/NLW-Ignite-server
+- Web: https://github.com/BrunoCezarGuimaraes/NLW-Ignite-web
